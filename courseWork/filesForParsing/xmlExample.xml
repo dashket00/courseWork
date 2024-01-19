@@ -1,0 +1,6 @@
+<MoneyTransfer>
+    <fromAccount>123456</fromAccount>
+    <toAccount>789012</toAccount>
+    <amount>100</amount>
+    <fakeOne>100</fakeOne>
+</MoneyTransfer>

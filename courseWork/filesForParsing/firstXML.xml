@@ -1,0 +1,5 @@
+<MoneyTransfer>
+    <fromAccount>1111111111</fromAccount>
+    <toAccount>1111111111</toAccount>
+    <amount>100</amount>
+</MoneyTransfer>
